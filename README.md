@@ -30,7 +30,7 @@ RAM: 4 GB <br>
 Ancho de Banda: 10 Mbps <br>
 
 ## Especificaciones para datos de consulta en la API
-La base de datos para consulta debe contener cada una de las siguientes columnas respetando el Dtype si es especificado. La única columna que es opcional incluir es "ModifiedDate: <br>
+La base de datos para consulta debe contener cada una de las siguientes columnas respetando el Dtype si es especificado. La única columna que es opcional incluir es "ModifiedDate": <br>
 
 CustomerID   ->   int64  <br>
 NameStyle        <br>
