@@ -19,9 +19,13 @@
 
 ## Instrucciones
 1.- Fork it
+
 2.- Correr clase4.ipynb. (Es necesario tener los datos de conexión en un archivo connection_details.json)
+
 3.- Correr class4_deployer.ipynb (Es necesario tener el id de suscripción en un archivo id_conf_c4.json y el modelo entrenado alamecenado en un archivo pickle model_regression.pkl)
+
 4.- Correr Prueba_API.ipynb (Es necesario tener el scoring uri del servicio desplegado en un archivo uri.json)
+
 5.- Para realizar predicciones con el modelo de regresión implementado es necesario correr la API construida en el archivo Prueba_API.ipynb. (Nota: Es necesario reemplazar el archivo "datos_prueba.csv" por los datos que se desee consultar y deben seguir estrictamente las características de formato).
 
 ## Especificaciones de Software mínimo:
