@@ -6,7 +6,7 @@
 - API.ipynb es el notebook que
 
 ## Archivos necesarios
-- connection_details.json tienen la sigueinte forma: 
+- connection_details.json tienen la siguiente forma: 
 {
     "server": "server",
     "database": "database",
