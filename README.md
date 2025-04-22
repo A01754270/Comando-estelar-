@@ -25,9 +25,9 @@
 5.- Para realizar predicciones con el modelo de regresión implementado es necesario correr la API construida en el archivo Prueba_API.ipynb. (Nota: Es necesario reemplazar el archivo "datos_prueba.csv" por los datos que se desee consultar y deben seguir estrictamente las características de formato).
 
 ## Especificaciones de Software mínimo:
-MacOS Sonoma 14.3/ Windows 11 
-RAM: 4 GB
-Ancho de Banda: 10 Mbps
+MacOS Sonoma 14.3/ Windows 11 (Preferente) <br>
+RAM: 4 GB <br>
+Ancho de Banda: 10 Mbps <br>
 
 ## Especificaciones para datos de consulta en la API
 
