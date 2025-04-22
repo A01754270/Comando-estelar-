@@ -31,20 +31,20 @@ Ancho de Banda: 10 Mbps <br>
 
 ## Especificaciones para datos de consulta en la API
 La base de datos para consulta debe contener cada una de las siguientes columnas respetando el dtype si es especificado: <br>
-Column          Dtype específico  
-------          ----------------  
-CustomerID      int64  
-NameStyle       -
-Title           -
-FirstName       -
-MiddleName      -
-LastName        -
-Suffix          -
-CompanyName     -
-SalesPerson     -
-EmailAddress    -
-Phone           object 
-PasswordHash    -
-PasswordSalt    -
-rowguid         -
-ModifiedDate    object                (puede incluirse o no)   
+Column          Dtype específico  <br>
+------          ----------------  <br>
+CustomerID      int64  <br>
+NameStyle       - <br>
+Title           - <br>
+FirstName       - <br>
+MiddleName      - <br>
+LastName        - <br>
+Suffix          - <br>
+CompanyName     - <br>
+SalesPerson     - <br>
+EmailAddress    - <br>
+Phone           object <br>
+PasswordHash    - <br>
+PasswordSalt    - <br>
+rowguid         - <br>
+ModifiedDate    object                (puede incluirse o no)   <br>
