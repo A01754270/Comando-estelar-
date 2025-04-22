@@ -14,8 +14,8 @@
     "password": "password"
 }
 - id_conf_c4.json contiene el id de suscripción para la utilización del grupo de recursos respectivo para desplegar el servicio en la nube con Microsoft Azure.
-- datos_prueba.csv es la base de datos de prueba que es enviada a la API para generar predicciones. Esta base de datos debe seguir estricta y exactamente el mismo formato que la base de datos con la que se entrenó el modelo utilizado en el servicio. En nuestro caso, generamos una en la que todas las columnas "no numéricas" se encuentran vacías.
 - model_regression.pkl contiene almacenado el modelo de regresión entrenado en clase4.ipynb y utilizado en el servicio desplegado en la nube.
+- datos_prueba.csv es la base de datos de prueba que es enviada a la API para generar predicciones. Esta base de datos debe seguir estricta y exactamente el mismo formato que la base de datos con la que se entrenó el modelo utilizado en el servicio. En nuestro caso, generamos una en la que todas las columnas "no numéricas" se encuentran vacías.
 
 ## Instrucciones
 1.- Fork it
